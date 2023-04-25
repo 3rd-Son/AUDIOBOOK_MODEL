@@ -17,4 +17,3 @@ The targets are a Boolean variable (so 0, or 1).I took a period of 2 years in my
 
 This is a classification problem with two classes: won't buy and will buy, represented by 0s and 1s. 
 
-Good luck!
